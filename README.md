@@ -4,7 +4,7 @@ API RESTful desenvolvida para gerenciamento de um catálogo de plataforma de Fil
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.x
+- **Linguagem:** Python 3
 - **Framework Principal:** Django
 - **API Toolkit:** Django REST Framework (DRF)
 - **Autenticação:** JWT (JSON Web Token)
